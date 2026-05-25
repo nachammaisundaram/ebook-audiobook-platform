@@ -26,3 +26,5 @@ Results
 - 98% unit test coverage across all modules
 - High accessibility for users with reading difficulties
 
+Screenshots
+- Home Page(home.png)
