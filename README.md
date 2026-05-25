@@ -28,3 +28,6 @@ Results
 
 Screenshots
 - Home Page(home.png)
+- [PDF Reader](book1.png)
+- [PDF to Audio](audio_convert.png)
+- [Converted Files](converted.png)
