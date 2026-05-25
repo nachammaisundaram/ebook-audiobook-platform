@@ -27,7 +27,7 @@ Results
 - High accessibility for users with reading difficulties
 
 Screenshots
-- Home Page(home.png)
+- [Home Page](home.png)
 - [PDF Reader](book1.png)
 - [PDF to Audio](audio_convert.png)
 - [Converted Files](converted.png)
